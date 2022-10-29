@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AlexisBoucherie. I am 33 yo and I'm French.
+- 👋 Hi, I’m @AlexisBoucherie. I am 34 yo and I'm French.
 
 - 👀 I’m interested in discovering the world, meeting new people, reading, hiking and playing RPGs. And of course coding, but do I really have to say it? ;)
 
