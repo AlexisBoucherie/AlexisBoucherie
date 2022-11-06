@@ -4,11 +4,11 @@ I am @AlexisBoucherie, I am 34 yo and I'm French.
 
 👀 I’m interested in discovering the world, meeting new people, reading, hiking and playing RPGs. And of course coding, but do I really have to say it? ;)
 
-🌱 I had the chance to be a tour guide for almost ten years in one of the most famous vineyards of the world: Bordeaux! A place where I had very good wine, of course, but not only: everyday I would meet groups of people from all over the world and tell them about our French art-de-vivre, culture and History.
+:wine_glass: I had the chance to be a tour guide for almost ten years in one of the most famous vineyards of the world: Bordeaux! A place where I had very good wine, of course, but not only: everyday I would meet groups of people from all over the world and tell them about our French art-de-vivre, culture and History.
 
 💻 Now, I’m currently learning how to become a successful Web Developer with a training at Wild Code School, Bordeaux.
 
-Among many other things, I learned HTML/CSS, Bootstrap, how to think mobile first, Figma, Javascript, React.js, MySQL, PHP, Symfony, Twig... I've now started various projects to try and master the secrets of The Force! 🧙‍♂️ And also maybe one day build the Apps of tomorrow!
+Among many other things, I learned HTML/CSS, Bootstrap, how to think mobile first, Figma, Javascript, React.js, MySQL, PHP, Symfony, Twig... I've now started various projects to try and master the secrets of The Force! 🧙‍♂️ And also maybe one day build the websites and softwares of tomorrow!
 
 Here are a few Github repos I'd like to share:
 - :open_file_folder: My portfolio > https://github.com/AlexisBoucherie/portfolio-v2
@@ -17,7 +17,7 @@ Here are a few Github repos I'd like to share:
 - :european_castle: A fun RPG-style resumee > https://github.com/AlexisBoucherie/online-cv
 
 
-💞️ I’m looking to collaborate on any project with a joyful fellowship that can help me improve my skills. 📈
+:rocket: I’m looking to collaborate on any project with a joyful fellowship.
 
 📫 How to reach me?
 
