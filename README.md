@@ -4,7 +4,7 @@ I am @AlexisBoucherie, I am 34 yo and I'm French.
 
 👀 I’m interested in discovering the world, meeting new people, reading, hiking and playing RPGs. And of course coding, but do I really have to say it? ;)
 
-:wine_glass: I had the chance to be a tour guide for almost ten years in one of the most famous vineyards of the world: Bordeaux! A place where I had very good wine (of course!) but not only: everyday I would meet hundreds of people from all over the planet and tell them about our French art-de-vivre, culture and History.
+:wine_glass: I had the chance to be a tour guide for almost ten years in one of the most famous vineyards of the world: Bordeaux! A place where I had very good wine (best in world, of course!) but not only: everyday I would meet hundreds of people from all over the planet and tell them about our French art-de-vivre, culture and History.
 
 💻 Now, I’m currently learning how to become a successful Web Developer with a training at Wild Code School, Bordeaux.
 
