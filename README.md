@@ -4,7 +4,7 @@ I am @AlexisBoucherie, I am 34 yo and I'm French.
 
 👀 I’m interested in discovering the world, meeting new people, reading, hiking and playing RPGs. And of course coding, but do I really have to say it? ;)
 
-:wine_glass: I had the chance to be a tour guide for almost ten years in one of the most famous vineyards of the world: Bordeaux! A place where I had very good wine (best in world, of course!) but not only: everyday I would meet hundreds of people from all over the planet and tell them about our French art-de-vivre, culture and History.
+:wine_glass: I had the chance to be a tour guide for almost ten years in one of the most famous vineyards of the world: Bordeaux! A place where I had very good wine (the best in the whole universe, of course!) but not only: everyday I would meet hundreds of people from all over the planet and tell them about our French art-de-vivre, culture and History.
 
 💻 Now, I’m currently learning how to become a successful Web Developer with a training at Wild Code School, Bordeaux.
 
@@ -12,6 +12,9 @@ Among many other things, I learned HTML/CSS, Bootstrap, how to think mobile firs
 
 Here are a few Github repos I'd like to share:
 - :open_file_folder: My portfolio > https://github.com/AlexisBoucherie/portfolio-v2
+- :basketball: A Symfony team project for a true client (WIP) > https://github.com/WildCodeSchool/2022-09-PHP-Bordeaux-OriginsDigital
+- :movie_camera: A Symfony project I'm training on > https://github.com/AlexisBoucherie/wild-series
+- :clapper: A 30h hackathon team project > https://github.com/AlexisBoucherie/Wildify
 - :earth_americas: A PHP random map generator > https://github.com/AlexisBoucherie/random-map-generator
 - :game_die: A small JS 2-player mobile game > https://github.com/AlexisBoucherie/js-dice-game
 - :european_castle: A fun RPG-style resumee > https://github.com/AlexisBoucherie/online-cv
