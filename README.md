@@ -12,9 +12,10 @@ Among many other things, I learned HTML/CSS, Bootstrap, how to think mobile firs
 
 Here are a few Github repos I'd like to share:
 - :open_file_folder: My portfolio > https://github.com/AlexisBoucherie/portfolio-v2
+- :red_car: A 48h Hackathon platform to manage fleets of vehicles > https://github.com/AlexisBoucherie/AmazonRenting
 - :basketball: A Symfony team project for a true client (WIP) > https://github.com/WildCodeSchool/2022-09-PHP-Bordeaux-OriginsDigital
 - :movie_camera: A Symfony project I'm training on > https://github.com/AlexisBoucherie/wild-series
-- :clapper: A 30h hackathon team project > https://github.com/AlexisBoucherie/Wildify
+- :clapper: A 30h Hackathon team project > https://github.com/AlexisBoucherie/Wildify
 - :earth_americas: A PHP random map generator > https://github.com/AlexisBoucherie/random-map-generator
 - :game_die: A small JS 2-player mobile game > https://github.com/AlexisBoucherie/js-dice-game
 - :european_castle: A fun RPG-style resumee > https://github.com/AlexisBoucherie/online-cv
