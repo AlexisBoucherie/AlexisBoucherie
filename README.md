@@ -6,7 +6,7 @@ I am @AlexisBoucherie, I am 34 yo and I'm French.
 
 :wine_glass: I had the chance to be a tour guide for almost ten years in one of the most famous vineyards of the world: Bordeaux! A place where I had very good wine (the best in the whole universe, of course!) but not only: everyday I would meet hundreds of people from all over the planet and tell them about our French art-de-vivre, culture and History.
 
-💻 Now, I’m currently learning how to become a successful Web Developer with a training at Wild Code School, Bordeaux.
+💻 For about a year now, I've been working hard to become a Web Developer.
 
 Among many other things, I learned HTML/CSS, Bootstrap, how to think mobile first, Figma, Javascript, React.js, MySQL, PHP, Symfony, Twig... I've now started various projects to try and master the secrets of The Force! 🧙‍♂️ And also maybe one day build the websites and softwares of tomorrow!
 
